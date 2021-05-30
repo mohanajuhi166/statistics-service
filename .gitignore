@@ -1,0 +1,16 @@
+.idea/*
+target/*
+.settings/*
+app*.log*
+*.iml
+.classpath
+.eclipse-pmd
+.project
+.sts4-cache
+${sys:LOG_PATH}/
+Annotations/*
+.DS_Store
+logs/*
+mvnw
+mvnw.cmd
+.mvn/*
